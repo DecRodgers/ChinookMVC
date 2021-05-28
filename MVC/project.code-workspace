@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Project"
+		},
+		{
+			"path": "Entities"
+		},
+		{
+			"path": "Context"
+		}
+	],
+	"settings": {}
+}

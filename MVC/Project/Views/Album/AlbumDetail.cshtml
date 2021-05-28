@@ -1,0 +1,49 @@
+@model IEnumerable<ChinookMVC.Models.AlbumDetailViewModel>
+@{
+    ViewData["Title"] = "Album Detail";
+}    
+ @if (Model.Count() == 0) @*check if tracks exist for album, displays no details if none found in model *@
+{
+  @Html.ActionLink("Back to Album List", "AlbumView")  
+  <div>
+  <p>No tracks to display</p>
+  <p>@Html.ActionLink("Add Track", "CreateTrack", new { id=@ViewBag.id}, new { @class = "btn btn-primary btn-large" })</p>    
+  </div>
+}else{ 
+    @Html.ActionLink("Back to Album List", "AlbumView")
+    <h3>Album Details: @Model.First().viewAlbum.Title</h3>
+    <h5>By: @Model.First().viewArtist.Name</h5>
+    <p></p>    
+    <table class="table table-condensed table-bordered table-striped">
+    <thead>      
+        <tr>     
+            <th>Track Title</th>      
+            <th>Media Type</th> 
+            <th>Genre</th>      
+            <th>Track Length (Milliseconds)</th>   
+            <th>Track Price</th>            
+            <th>@Html.ActionLink("Add Track", "CreateTrack", new { id=@Model.First().viewAlbum.AlbumID}, new { @class = "btn btn-primary btn-large" })</th>
+        </tr>
+    </thead>
+  <tbody>
+              
+@foreach (var item in @Model)
+    { 
+      <tr>        
+        <td>@item.viewTrack.Name</td>        
+        <td>@item.Media_Type.Name</td>
+        <td>@item.Genre.Name</td>
+        @{
+            int timeInSeconds = (int)Math.Round(@item.viewTrack.Milliseconds * 0.001);
+            int trackMinutes = timeInSeconds/60;
+            double trackSeconds = timeInSeconds%60;
+            string trackTime = trackMinutes+":"+trackSeconds.ToString("00");
+        }
+        <td>@trackTime  (@item.viewTrack.Milliseconds)</td>
+        <td>£@item.viewTrack.UnitPrice.ToString("0.00")</td>                                
+        <td>@Html.ActionLink("Edit", "TrackEdit", new { id=item.viewTrack.TrackID,albumid=item.viewTrack.AlbumID}, new { @class = "btn btn-success"})</td>
+      </tr>
+    }
+  </tbody>
+</table>
+}

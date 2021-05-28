@@ -1,0 +1,54 @@
+@model ChinookProject.Shared.Track
+@{
+    ViewData["Title"] = "Create Track";
+
+}
+<h2>Edit Track</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">        
+        <h4>Track Details</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })        
+            <div class="form-group">
+                <p>@Html.LabelFor(model => model.TrackID): @ViewBag.TrackID</p>
+                <p>@Html.LabelFor(model => model.AlbumID): @ViewBag.AlbumID</p>
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">                
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>            
+                @Html.LabelFor(model => model.MediaTypeID,htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">                
+                    @Html.DropDownListFor(model => model.MediaTypeID, new SelectList(ViewBag.Media_TypeList, "MediaTypeID","Name"), "-Select Media Type", htmlAttributes: new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.MediaTypeID, "", new { @class = "text-danger" })           
+                </div>
+                @Html.LabelFor(model => model.GenreID,htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">                
+                    @Html.DropDownListFor(model => model.GenreID, new SelectList(ViewBag.GenreList, "GenreID","Name"), "-Select Track Genre", htmlAttributes: new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.GenreID, "", new { @class = "text-danger" })           
+                </div>              
+                @Html.LabelFor(model => model.Milliseconds,htmlAttributes: new { @class = "control-label col-md-5" })
+                <div class="col-md-10">                
+                    @Html.EditorFor(model => model.Milliseconds, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Milliseconds, "", new { @class = "text-danger" })
+                </div>
+                @Html.LabelFor(model => model.UnitPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">                
+                    @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })
+                </div>     
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Update" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+    <div>
+        @Html.ActionLink("Cancel", "AlbumDetail", new { id=@ViewBag.albumID})
+    </div>
+    

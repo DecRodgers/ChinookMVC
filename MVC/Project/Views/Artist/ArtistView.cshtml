@@ -1,0 +1,24 @@
+﻿@model ChinookMVC.Models.ArtistViewModel
+@{
+    ViewData["Title"] = "Artists";
+}
+
+<h2>Artist Management</h2>
+<table class="table table-condensed table-bordered table-striped">
+  <thead class="thead-inverse">
+    <tr>      
+      <th>Artist Name</th>
+      <th><a class="btn btn-primary" href="CreateArtist">Add Artist</a></th>      
+    </tr>
+  </thead>
+  <tbody>
+  @foreach (var item in @Model.Artists)
+
+    {
+      <tr>        
+        <td>@item.Name</td>                        
+        <td>@Html.ActionLink("Edit", "ArtistEdit", new { id=item.ArtistID }, new { @class = "btn btn-success"})</td>        
+      </tr>
+    }
+  </tbody>
+</table>

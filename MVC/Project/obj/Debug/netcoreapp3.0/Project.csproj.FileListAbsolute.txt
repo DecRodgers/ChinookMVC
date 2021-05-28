@@ -1,0 +1,425 @@
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\app.db
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.exe
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.input.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.output.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorCoreGenerate.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CopyComplete
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\scopedcss\bundle\Project.styles.css
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.genruntimeconfig.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\CreateArtist.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumDetail.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateAlbum.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateTrack.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\TrackEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\app.db
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.exe
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\scopedcss\bundle\Project.styles.css
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.input.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.output.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorCoreGenerate.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumDetail.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateAlbum.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateTrack.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\TrackEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\CreateArtist.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CopyComplete
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.genruntimeconfig.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\app.db
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.exe
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\scopedcss\bundle\Project.styles.css
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.input.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.output.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorCoreGenerate.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumDetail.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateAlbum.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateTrack.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\TrackEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\CreateArtist.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CopyComplete
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286-CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.genruntimeconfig.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\app.db
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.exe
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.Views.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Context.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Context.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\scopedcss\bundle\Project.styles.css
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.TagHelpers.input.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.TagHelpers.output.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.RazorCoreGenerate.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumDetail.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateAlbum.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateTrack.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Album\TrackEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\CreateArtist.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.csproj.CopyComplete
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\B00371286\CourseworkTwo\project\obj\Debug\netcoreapp3.0\Project.genruntimeconfig.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\app.db
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.exe
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Context.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\staticwebassets\Project.StaticWebAssets.xml
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\scopedcss\bundle\Project.styles.css
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.input.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.TagHelpers.output.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorCoreGenerate.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumDetail.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\AlbumView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateAlbum.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\CreateTrack.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Album\TrackEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistEdit.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\ArtistView.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Artist\CreateArtist.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.Views.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.csproj.CopyComplete
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.dll
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\FINISHED\B00371286 IS CourseworkTwo\CourseworkTwo\Project\obj\Debug\netcoreapp3.0\Project.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+D:\Dropbox\Education\University\Computing Science Year 3\COMP09020 Internet Scripting\Coursework May\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

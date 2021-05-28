@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ChinookMVC.Models.AlbumViewModel>    
+@* The model needs to be an IEnumerable as it collects several albums and artists from the model   *@
+@* modal for comfirm delete based example from: https://qawithexperts.com/article/asp-net/show-bootstrap-confirmation-modal-before-delete-in-aspnet-mv/230 *@
+@{
+    ViewData["Title"] = "Albums";
+}
+
+<h2>Album Management</h2>
+<table class="table table-responsive table-condensed table-bordered table-striped">
+  <thead class="thead-inverse">
+    <tr>      
+      <th>Album Title</th>      
+      <th>Album Artist</th>
+      <th></th>
+      <th></th>
+      <th><a class="btn btn-primary" href="CreateAlbum">Add Album</a></th> 
+    </tr>
+  </thead>
+  <tbody>
+@foreach (var item in @Model)
+    {
+      <tr>        
+        <td>@item.viewAlbum.Title</td>        
+        <td>@item.viewArtist.Name</td>        
+        <td>@Html.ActionLink("Details", "AlbumDetail", new { id=item.viewAlbum.AlbumID }, new { @class = "btn btn-info"})</td>
+        <td>@Html.ActionLink("Edit", "AlbumEdit", new { id=item.viewAlbum.AlbumID }, new { @class = "btn btn-success"})</td>          
+        <td><a href="#" class="btn btn-danger" onclick="ConfirmDelete(@item.viewAlbum.AlbumID)">Delete</a></td>
+      </tr>
+    }
+  </tbody>
+</table>
+
+    <div class="modal fade" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title">Delete Album</h5>
+                    <a href="#" class="close" data-dismiss="modal">&times;</a>                    
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to remove this Album?</p>
+                </div>
+                <div class="modal-footer">
+                    <a href="#" class="btn btn-default" data-dismiss="modal">Cancel</a>
+                    <a href="#" class="btn btn-danger" onclick="DeleteAlbum()">Confirm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    @*hidden field for storing current AlbumID*@
+    <input type="hidden" id="hiddenAlbumID" />
+
+@section scripts{
+<script>
+        var ConfirmDelete = function (AlbumID) {
+            $("#hiddenAlbumID").val(AlbumID);
+            $("#myModal").modal('show');
+        }
+        var DeleteAlbum = function () {
+            var albID = $("#hiddenAlbumID").val();
+            $.ajax({
+                type: "POST",
+                url: "/Album/DeleteSelectedAlbum",
+                data: { id: albID },
+                success: function (result) {
+                    $("#myModal").modal("hide");
+                     window.location.reload();    //added this to refresh page after deleting album               
+                }
+            })
+        }
+</script>
+}

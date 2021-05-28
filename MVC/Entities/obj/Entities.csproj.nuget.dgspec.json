@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dropbox\\Education\\University\\Computing Science Year 3\\FINISHED\\B00371286 IS CourseworkTwo\\CourseworkTwo\\Entities\\Entities.csproj": {}
+  },
+  "projects": {
+    "D:\\Dropbox\\Education\\University\\Computing Science Year 3\\FINISHED\\B00371286 IS CourseworkTwo\\CourseworkTwo\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dropbox\\Education\\University\\Computing Science Year 3\\FINISHED\\B00371286 IS CourseworkTwo\\CourseworkTwo\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Dropbox\\Education\\University\\Computing Science Year 3\\FINISHED\\B00371286 IS CourseworkTwo\\CourseworkTwo\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Declan\\.nuget\\packages\\",
+        "outputPath": "D:\\Dropbox\\Education\\University\\Computing Science Year 3\\FINISHED\\B00371286 IS CourseworkTwo\\CourseworkTwo\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Declan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
